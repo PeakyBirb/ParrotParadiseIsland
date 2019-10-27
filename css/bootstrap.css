@@ -558,10 +558,16 @@ pre code {
 .masthead {
   height: 100vh;
   min-height: 500px;
-  background-image: url('https://source.unsplash.com/BtbjCFUvBXs/1920x1080');
+  background-image: url(/images/frontpagebackground.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+}
+
+.logotext {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 665em;
+
 }
 
 
