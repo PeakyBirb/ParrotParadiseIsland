@@ -263,6 +263,11 @@ textarea {
     page-break-after: avoid;
   }
 
+}
 
+@media only screen and (max-width: 359px) {
+  .flyingbird {
+    display:none;
+  }
 }
 
