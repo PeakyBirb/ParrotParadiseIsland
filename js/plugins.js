@@ -1,5 +1,5 @@
 // Avoid `console` errors in browsers that lack a console.
-import 'bootstrap/dist/js/bootstrap.bundle';
+
 (function() {
   var method;
   var noop = function () {};
