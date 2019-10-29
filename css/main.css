@@ -17,6 +17,15 @@ html {
   line-height: 1.4;
 }
 
+.linkcolor{
+  color:purple;
+  font-weight:500;
+}
+
+
+.linkcolor:hover{
+  color:purple;
+}
 .display-5 {
   font-size: 2.5rem;
   font-weight: 350;
