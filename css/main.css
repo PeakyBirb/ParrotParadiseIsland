@@ -23,6 +23,11 @@ html {
   font-weight: 400;
 }
 
+.leadboldsmall {
+  font-size: 1.0rem;
+  font-weight: 400;
+}
+
 
 .leadbolder {
   font-size: 1.25rem;
