@@ -52,13 +52,17 @@ html {
   font-weight: 600;
 }
 
+.textturquoise{
+  color: rgb(0, 195, 255);
+}
+
 .footer-copyright{
   background-color: #343A40;
   color: white;
 }
 
 /*---------------------------------------
-  Contact section              
+  Contact section
 -----------------------------------------*/
 
 #contact .form-control {
@@ -106,14 +110,14 @@ html {
   font-size: 30px;
 }
 .how-section1 .subheading{
-  color: #3931af;
+  color: #1390d8;
   font-size: 20px;
 }
 .how-section1 .row
 {
   margin-top: 10%;
 }
-.how-img 
+.how-img
 {
   text-align: center;
 }
