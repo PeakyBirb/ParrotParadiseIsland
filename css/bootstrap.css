@@ -555,14 +555,7 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
-.masthead {
-  height: 100vh;
-  min-height: 500px;
-  background-image: url(/images/frontpagebackground.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
+
 
 
 

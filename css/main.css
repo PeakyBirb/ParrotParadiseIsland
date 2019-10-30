@@ -17,6 +17,21 @@ html {
   line-height: 1.4;
 }
 
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url(/images/frontpagebackground.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 380px) {
+  .masthead {
+    height: 120vh;
+  }
+}
+
 .linkcolor{
   color:purple;
   font-weight:500;
