@@ -28,11 +28,7 @@ html {
 
 @media only screen and (max-width: 800px) {
   .masthead {
-<<<<<<< HEAD
     height: 170vh;
-=======
-    height: 140vh;
->>>>>>> af4a59272ad9460378543a0abb88221f41813aef
   }
 }
 
