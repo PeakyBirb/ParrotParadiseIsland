@@ -71,9 +71,14 @@ html {
   color: rgb(0, 195, 255);
 }
 
+.footer{
+  position: static;
+}
+
 .footer-copyright{
   background-color: #343A40;
   color: white;
+
 }
 
 .fill{
